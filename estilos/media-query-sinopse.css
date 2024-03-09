@@ -21,7 +21,7 @@
         font-family: var(--fonte-filme);
         font-weight: 800;
         font-size: 3.6em;
-        padding-top: 370px;
+        padding-top: 380px;
         padding-left: 20px;
     }
 
@@ -39,7 +39,7 @@
         font-family: var(--fonte-sinopse);
         font-weight: lighter;
         padding: 20px;
-        padding-top: 30px;
+        padding-top: 20px;
         padding-left: 20px;
         margin-top: 40px;
     }
