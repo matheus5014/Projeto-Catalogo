@@ -151,7 +151,7 @@ section > a > h2 {
 }
 
 section.item > a img:hover {
-    box-shadow: 5px 5px 10px #dc4722;
-    transform: translate( -3px, -3px); 
+    box-shadow: 0px 0px 10px #ffffff;
+    transform: scale(1.03); 
     transition: .2s;
 } 
